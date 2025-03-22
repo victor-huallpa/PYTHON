@@ -3,7 +3,7 @@ import pyttsx3
 import os
 # Configuración de la clave de la API de ChatGPT
 API_KEY = os.getenv("OPENAI_API_KEY")
-openai.api_key = API_KEY
+
 
 # Función para enviar la solicitud a la API de ChatGPT
 def enviar_solicitud(texto):
