@@ -1,2 +1,2 @@
-saludo = 'Hello World';
-print(saludo);
+saludo = 'Hello World'
+print(saludo)

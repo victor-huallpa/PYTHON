@@ -1,0 +1,21 @@
+esperar a que carlos entre es entender que el puede estar cenando o talvez ya se durmio el dia de hoy?
+que dices vech. estamos esperando todo esto? mmmm nose ah? que dices estamos en esta parte del ambiente 
+combinaciones exactas de todo esta parte de typing o estamos haciendo mecanografia?mmmm estoy pensando que tendra sentido en algun momento 
+nuestra practica.
+oky tenemos que hacer toda esta practica del dia de hoy esperando que todo esta acorde de mi opidion estamos muy interesados de todo esta
+etapa que esta pasando entendiste o como empizo explicarte explicarte explicarte explicarte explicarte explicarte explicarte explicarte explicarte explicarte explicarte exp;lciarte explicarte.
+operadores de comparacion
+| Operador | Significado       |
+| -------- | ----------------- |
+| `==`     | igual a           |
+| `!=`     | distinto de       |
+| `>`      | mayor que         |
+| `<`      | menor que         |
+| `>=`     | mayor o igual que |
+| `<=`     | menor o igual que |
+operadores de logicos
+| Operador | Significado   |
+| -------- | ------------- |
+| `and`    | Y             |
+| `or`     | O             |
+| `not`    | NO (negación) |
