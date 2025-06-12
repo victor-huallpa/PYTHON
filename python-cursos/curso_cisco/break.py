@@ -24,6 +24,6 @@ print(f"""
       ___________________________________
       |  bien hecho lograste vencer al  |
       |           buffon                |  
-      |la palabra secreta era {ingre}   |
+      |la palabra secreta era {ingre}|
       ----------------------------------""")
     

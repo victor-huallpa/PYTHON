@@ -16,6 +16,10 @@ def is_year_leap(year):
     else:
         return True
 
+# anio = int(print("ingrese anio: "))
+
+
+
 test_data = [1900, 2000, 2016, 1987]
 test_results = [False, True, True, False]
 for i in range(len(test_data)):
