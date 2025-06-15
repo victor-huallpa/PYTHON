@@ -1,7 +1,7 @@
 #Crea un algoritmo donde se pueda seleccionar cualquier elemento de una lista ya declarada con mas de 5 elementos
-#Si deseas puedes pedor al usuario estos elementos y despues almacenarlos en una lista
-#considera si le piedes al usuario ingresar los elementos que tendran la lista, tambien que le pida que cantidad de datos almacenara
-#Considera que el algoritmo tambien tiene que darle la opcion de modificar o eliminar los elementos de la lista en caso lo queira el usuario
+#Si deseas puedes pedir al usuario estos elementos y despues almacenarlos en una lista
+#considera si le piedes al usuario ingresar los elementos que tendran la lista, tambien que le pida que cantidad de datos a almacenar
+#Considera que el algoritmo tambien tiene que darle la opcion de modificar, eliminar o seguir agregando los elementos de la lista en caso lo queira el usuario
 
 memory_list = []
 num_elements = int(input("Cuantos elementos desea ingresar:"))
