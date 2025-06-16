@@ -21,7 +21,7 @@ if modify == "si":
 
 if (elemetn_to_modify in memory_list) or (memory_list[int(elemetn_to_modify)-1] in memory_list):#corregir error de evaluacion, no evalua error de typeo
     for i in range(len(memory_list)):
-        if memory_list[i] == elemetn_to_modify:
+        if memory_list[i] == elemetn_to_modify or i == int(elemetn_to_modify)-1:
             elemetn_to_modify = i
         continue
     new_element = input(f"Ingrese la modificacion del elemento '{memory_list[elemetn_to_modify]}': ")
