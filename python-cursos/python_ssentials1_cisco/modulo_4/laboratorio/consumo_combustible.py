@@ -1,18 +1,16 @@
 #crea un algoritmo que calcule el consumo de galones y convierta cantidad consumida por galon a millas por galon y vice versa
 
-milla_meters = 1609.344
+
 gallon_liters = 3.785411784
+milla_meters = 1609.344
 
 def liters_100km_to_miles_gallon(liters):
-    gallon_liters = 3.785411784
-    milla_meters = 1609.344
+
     liters_gallon = liters/gallon_liters
     miles = 100 * 1000 / milla_meters
     return miles / liters_gallon
 def miles_gallon_to_liters_100km(miles):
 
-    gallon_liters = 3.785411784
-    milla_meters = 1609.344
 
     meters_miles = milla_meters*miles
 
