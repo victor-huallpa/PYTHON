@@ -1,10 +1,11 @@
-
-n = 0
-
-while True:
-    print('...', end='')
-    if n > 3:
-        break
-    else:
-        print(n+1)
-    n+=1
+try:
+    value = input("Ingresa un valor: ")
+    print(value/value)
+except ValueError:
+    print("Entrada incorrecta...")
+except ZeroDivisionError:
+    print("Entrada errónea...")
+except TypeError:
+    print("Entrada muy errónea...")
+except:
+    print("¡Buuu!")
